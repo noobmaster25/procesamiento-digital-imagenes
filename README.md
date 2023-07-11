@@ -9,6 +9,10 @@ Este proyecto es un procesador digital de imágenes desarrollado en Java con Int
 - `NetBeans 8.1`
 - `JRE (Java Runtime Environment) instalado en el sistema`
 
+## Librerias requeridas
+- `jcommon-1.0.20`
+- `jfreechart-1.0.15`
+
 ## Características
 
 - Conversión de imágenes a escala de grises.
@@ -28,6 +32,7 @@ Este proyecto es un procesador digital de imágenes desarrollado en Java con Int
     3. En NetBeans, selecciona "Abrir Proyecto" desde el menú "Archivo".
     4. Navega hasta la ubicación donde descargaste el repositorio y selecciona la carpeta del proyecto.
     5. Haz clic en "Abrir" para cargar el proyecto en NetBeans.
+    6. Agregar librerias necesarias manaulmente en las propiedades del proyecto.
 
 ## Uso
 
